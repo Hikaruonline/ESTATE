@@ -1,6 +1,6 @@
 # ESTATE
 
-This app is a fictional site for bridal jewelry that runs on Firebase
+This app is a fictional site for bridal jewelry that runs on Firebase.
 
 
  URL:
@@ -12,7 +12,8 @@ This app is a fictional site for bridal jewelry that runs on Firebase
 
 ## a point to notice
 
-* Not compatible with smartphones
+* In order to learn the front end, I made it only with css without using bootstrap.
+* Not compatible with smartphones.
 
 
 
